@@ -15,7 +15,7 @@ The main components of the Metasploit Framework can be summarized as follows;
 
   
 
-This room will cover the main components of Metasploit while providing you with a solid foundation on how to find relevant exploits, set parameters, and exploit vulnerable services on the target system. Once you have completed this room, you will be able to navigate and use the Metasploit command line comfortably.
+This tutorial will cover the main components of Metasploit while providing you with a solid foundation on how to find relevant exploits, set parameters, and exploit vulnerable services on the target system.
 
 # Main Components of Metasploit 
 
